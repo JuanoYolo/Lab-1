@@ -7,7 +7,7 @@ el presente documento esta diseñado para mostrar informacion sobre *Juan Monroy
 
 2. *Edad:* 21
 
-3. *Pais:* Colombia
+3. *Pais:* **Colombia**
 
 4. *Ciudad:* Bogotá
 
@@ -16,11 +16,11 @@ el presente documento esta diseñado para mostrar informacion sobre *Juan Monroy
 
 * *Bachillerato:* Gimnasio Nuevo Suba
 
-* *Ingenieria de Sistemas:* [Escuela Colombiana de Ingenieria Julio Garavitol(https://www.escuelaing.edu.co/es/) 
+* *Ingenieria de Sistemas:* [Escuela Colombiana de Ingenieria Julio Garavito](https://www.escuelaing.edu.co/es/) 
 
 > ### Cursos
 
->> Calculo para jovenes: [Universidad Nacional de Colombia][1]\ 
+>> Calculo para jovenes: [Universidad Nacional de Colombia][1]
 
 >> Introduccion a Python: [Pontificia Universidad Católica de Chile][1]
 
