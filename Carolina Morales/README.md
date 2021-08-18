@@ -12,7 +12,8 @@
 
 **Primer laboratorio**\
   [Link](https://github.com/JuanoYolo/Lab-1.git)
-
+  
+**Código**
 ```
 public class HolaMundo {
 	public static void main(String[] args) {		
