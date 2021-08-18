@@ -14,5 +14,9 @@
   [Link](https://github.com/JuanoYolo/Lab-1.git)
 
 ```
-print("Hola mundo")
+public class HolaMundo {
+	public static void main(String[] args) {		
+		System.out.println("Hola Mundo");
+	}
+}
 ```
