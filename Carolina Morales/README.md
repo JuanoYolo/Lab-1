@@ -10,4 +10,12 @@
     
 [Link primer laboratorio](https://github.com/JuanoYolo/Lab-1.git)
 
-![Tabata](https://github.com/JuanoYolo/Lab-1/blob/master/Carolina%20Morales/Tabata.jpeg)"Tabata"
+```
+print("Hola mundo")
+```
+
+![Tabata][1]
+
+[1]:
+https://github.com/JuanoYolo/Lab-1/blob/master/Carolina%20Morales/Tabata.jpg
+"Tabata"
