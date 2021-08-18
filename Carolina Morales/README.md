@@ -10,4 +10,4 @@
     
 [Link primer laboratorio](https://github.com/JuanoYolo/Lab-1.git)
 
-![Tabata](file:///C:/Users/carol/Pictures/Tabata.jpeg)
+![Tabata](https://github.com/JuanoYolo/Lab-1/blob/master/Carolina%20Morales/Tabata.jpeg)"Tabata"
