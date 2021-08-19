@@ -1,7 +1,7 @@
 # Parte 2 
 
 ## Introducción general GIT
----
+
 **Nombre:** *Carolina Morales*
 >* Datos básicos  
       1. **Celular** *123456*\
@@ -21,9 +21,9 @@ public class HolaMundo {
 	}
 }
 ```
-
-# Parte 3
 ---
+# Parte 3
+
 
 **Carolina Morales**
 **2103370**
