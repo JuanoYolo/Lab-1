@@ -21,3 +21,17 @@ public class HolaMundo {
 	}
 }
 ```
+
+# Parte 3
+---
+
+**Carolina Morales**
+**2103370**
+
+### Main
+
+![](https://github.com/JuanoYolo/Lab-1/blob/master/Carolina%20Morales/main.png)
+
+### Remote
+
+![](https://github.com/JuanoYolo/Lab-1/blob/master/Carolina%20Morales/remote.png)
